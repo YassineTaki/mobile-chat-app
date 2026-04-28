@@ -1,4 +1,4 @@
-# 🔐 Vault Messenger
+# Vault Messenger
 
 An end-to-end encrypted chat app built with Flutter and Firebase.
 
